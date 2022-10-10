@@ -1,3 +1,3 @@
 # CodeSignal 
 
-Answers of Code signal(Code test)
+Answers from code signal 
